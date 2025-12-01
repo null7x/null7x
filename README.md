@@ -1,6 +1,6 @@
 [![Header](https://github.com/null7x/null7x/blob/main/assets/header.png)](https://github.com/null7x)
 
-### 👋 Hi, I'm null7x<br>💻 Passionate Developer<br>🚀 Building Cool Projects
+### 👋 Hi, I'm null7x<br>🌐 CEO Arion ai<br>💻 Passionate Developer<br>🚀 Building Cool Projects
 
 ## 🛠 Languages and Tools:
 <p>
