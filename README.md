@@ -129,15 +129,6 @@
 
 ---
 
-## 🎵 Spotify Now Playing:
-<p align="center">
-  <a href="https://open.spotify.com/user/null7x">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=null7x&cover_image=true&theme=novatorem&bar_color=a855f7&bar_color_cover=true" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.instagram.com/null7.x">
